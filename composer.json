@@ -1,8 +1,8 @@
 {
-    "name": "malper/fix-categories",
+    "name": "malpersaz/bagisto-fix-categories",
     "autoload": {
         "psr-4": {
-            "Malper\\FixCategories\\": "src/"
+            "Malpersaz\\BagistoFixCategories\\": "src/"
         }
     },
     "authors": [
@@ -13,7 +13,7 @@
     "extra": {
     "laravel": {
         "providers": [
-            "Malper\\FixCategories\\Providers\\ExtendedControllersServiceProvider"
+            "Malpersaz\\BagistoFixCategories\\Providers\\ExtendedControllersServiceProvider"
         ]
     }
 },

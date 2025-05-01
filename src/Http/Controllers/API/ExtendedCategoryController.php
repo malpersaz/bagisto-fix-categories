@@ -1,7 +1,7 @@
 <?php
 // app/Http/Controllers/API/ExtendedCategoryController.php
 
-namespace Malper\FixCategories\Http\Controllers\API;
+namespace Malpersaz\BagistoFixCategories\Http\Controllers\API;
 
 use Illuminate\Http\Resources\Json\JsonResource;
 use Illuminate\Support\Facades\DB;

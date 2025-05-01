@@ -1,12 +1,12 @@
 <?php
 // app/Providers/ExtendedControllersServiceProvider.php
 
-namespace Malper\FixCategories\Providers;
+namespace Malpersaz\BagistoFixCategories\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Route;
 //use App\Http\Controllers\API\ExtendedCategoryController;
-use Malper\FixCategories\Http\Controllers\API\ExtendedCategoryController;
+use Malpersaz\BagistoFixCategories\Http\Controllers\API\ExtendedCategoryController;
 use Webkul\Shop\Http\Controllers\API\CategoryController;
 
 class ExtendedControllersServiceProvider extends ServiceProvider
